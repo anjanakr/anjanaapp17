@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>table1</name>
+        <order/>
+        <roles>x_anjanaapp16.table1_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-14 16:45:11</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>1b84429adb5a0010c28f5223dc961916</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>table1</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="anjanaapp16" source="x_anjanaapp16">b964825adb5a0010c28f5223dc96198f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="anjanaapp16">b964825adb5a0010c28f5223dc96198f</sys_scope>
+        <sys_update_name>sys_ui_application_1b84429adb5a0010c28f5223dc961916</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-14 16:45:11</sys_updated_on>
+    </sys_ui_application>
+</record_update>
